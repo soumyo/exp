@@ -1,0 +1,16 @@
+{
+  "notebooks": {
+    "LinearRegression.ipynb": {
+      "slug": "5a41fa167d16424785135a0acfb6f8bd"
+    },
+    "/home/soumyo/.local/lib/python3.10/site-packages/ipykernel_launcher.py": {
+      "slug": "f1892e9ad8234c5d8e95dcb1f6c412b2"
+    },
+    "LogisticRegression_ImageClassification.ipynb": {
+      "slug": "f1892e9ad8234c5d8e95dcb1f6c412b2"
+    },
+    "LogisticRegression.ipynb": {
+      "slug": "dc466a789f2a4635a423d81484a5f0c2"
+    }
+  }
+}
